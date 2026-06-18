@@ -1,16 +1,3 @@
-DOM Explorer: Interactive Task Manager
-
-A fully interactive Task Manager built using HTML, CSS, and Vanilla JavaScript. 
-This project demonstrates core DOM concepts and event handling.
-
-Features:
-- Add Task
-- Delete Task
-- Edit Task
-- Complete/Undo Task
-- Dark/Light Theme Toggle
-- Event Propagation Demo
-
 Parsing :
 When the browser receives an HTML file, it reads it line by line. This process of reading and understanding HTML is called Parsing.
 Tokenization :
@@ -29,3 +16,18 @@ Opposite of Bubbling — the event travels from top to bottom.
 Document → Parent → Child → Button
 Event Delegation:
 Instead of adding separate event listeners to every element, we attach one single listener to the parent — this is called Event Delegation.
+
+
+DOM Explorer: Interactive Task Manager
+
+A fully interactive Task Manager built using HTML, CSS, and Vanilla JavaScript. 
+This project demonstrates core DOM concepts and event handling.
+
+Features:
+- Add Task
+- Delete Task
+- Edit Task
+- Complete/Undo Task
+- Dark/Light Theme Toggle
+- Event Propagation Demo
+
