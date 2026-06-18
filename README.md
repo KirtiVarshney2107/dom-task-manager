@@ -1,3 +1,16 @@
+DOM Explorer: Interactive Task Manager
+
+A fully interactive Task Manager built using HTML, CSS, and Vanilla JavaScript. 
+This project demonstrates core DOM concepts and event handling.
+
+Features:
+- Add Task
+- Delete Task
+- Edit Task
+- Complete/Undo Task
+- Dark/Light Theme Toggle
+- Event Propagation Demo
+
 Parsing :
 When the browser receives an HTML file, it reads it line by line. This process of reading and understanding HTML is called Parsing.
 Tokenization :
